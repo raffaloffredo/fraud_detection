@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <img src="deteccao_fraude.png" height=500px>
+  <img src="fraud_detection.png" height=500px>
 </p>
 <br/>
 
