@@ -9,7 +9,7 @@
 <br/>
 
 ## About the project
-~ on going ~
+The general objective of this project was to analyze data from over 280,000 credit card transactions provided by European operators in order to improve the detection of frauds carried out using this payment method through machine learning methods.
 
 
 * **[Code File](https://github.com/raffaloffredo/fraud_detection/blob/main/%5BLoffredoDS%5D_Credit_card_fraud_detection.ipynb)**
