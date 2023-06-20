@@ -12,9 +12,9 @@
 ~ on going ~
 
 
-* **[Code File](https://github.com/raffaloffredo/covid_2023/blob/main/%5BLoffredo_DS%5D_COVID_19_panorama_for_Brazil_and_the_world.ipynb)**
-* **[Full Article](https://medium.com/@loffredo.ds/data-science-applied-a-covid-19-study-on-brazil-and-the-world-8376407cc672)**
-* **[Summarized Article (Results)](https://www.linkedin.com/pulse/updated-study-covid-19-brazil-worldwide-raffaela-loffredo)**
+* **[Code File](https://github.com/raffaloffredo/fraud_detection/blob/main/%5BLoffredoDS%5D_Credit_card_fraud_detection.ipynb)**
+* **[Full Article](https://medium.com/@loffredo.ds/construction-of-machine-learning-models-to-predict-credit-card-fraud-e926fca4229c)**
+* **[Summarized Article (Results)](https://www.linkedin.com/pulse/results-obtained-machine-learning-models-predict-credit-loffredo)**
 <br/>
 
 ## Other Projects
