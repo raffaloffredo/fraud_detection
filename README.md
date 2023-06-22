@@ -17,6 +17,28 @@ This study aimed to analyze credit card data and improve the detection of frauds
 * **[Summarized Article (Results)](https://www.linkedin.com/pulse/results-obtained-machine-learning-models-predict-credit-loffredo)**
 <br/>
 
+## Additional Material 
+The results obtained with the best machine learning model were condensed into images to generate a straightforward presentation of what the company could achieve with the use of this algorithm.
+
+<p align="center">
+  <img src="fraud_detection_results_1.PNG" width="50%">
+</p>
+<br/>
+<p align="center">
+  <img src="fraud_detection_results_2.PNG" width="50%">
+</p>
+<br/>
+<p align="center">
+  <img src="fraud_detection_results_3.PNG" width="50%">
+</p>
+<br/>
+<p align="center">
+  <img src="fraud_detection_results_4.PNG" width="50%">
+</p>
+<br/>
+
+
+
 ## Other Projects
 
 * **[Airbnb New York](https://github.com/raffaloffredo/airbnb_new_york)**
